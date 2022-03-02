@@ -5,8 +5,6 @@
 #include "fonte.h"
 #include "painel.h"
 
-const char *ssid = "RFSimao";
-const char *password = "largaessevicio";
 
 String	bufferSerial="";
 String  bufferSerial2="";
