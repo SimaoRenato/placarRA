@@ -1,0 +1,2 @@
+Espaçamento 18mm
+pitch 2,54 mm

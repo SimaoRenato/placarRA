@@ -1,0 +1,16 @@
+Painel KEYWORD1
+spiInit KEYWORD2
+latch KEYWORD2
+enviarSPI KEYWORD2
+ativarLinha KEYWORD2
+fillDisplay KEYWORD2
+configPanel KEYWORD2
+checkeredFlag KEYWORD2
+ConnectToWiFi KEYWORD2
+flushDisplay KEYWORD2
+brightness KEYWORD2
+fillBufferRGB KEYWORD2
+sendBuffer KEYWORD2
+advertencia KEYWORD2
+numero KEYWORD2
+letra KEYWORD2
